@@ -24,7 +24,7 @@ public class HandsVeinDetection {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-       
+            System.out.println("Added for  master branch");
             HandsVeinWindow handsVeinWindow= new HandsVeinWindow();
             handsVeinWindow.setDefaultCloseOperation( JFrame.EXIT_ON_CLOSE );
             handsVeinWindow.setVisible( true );
