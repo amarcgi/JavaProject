@@ -29,6 +29,7 @@ public class HandsVeinDetection {
             HandsVeinWindow handsVeinWindow= new HandsVeinWindow();
             handsVeinWindow.setDefaultCloseOperation( JFrame.EXIT_ON_CLOSE );
             handsVeinWindow.setVisible( true );
+           //This Line added in Master branch
             
     }
 }
